@@ -1,6 +1,6 @@
 {
   "version": "1.2",
   "button_text": "أهلا بك ياصديقى 🚀 تحميل التحديث الجديد",
-  "message": "Update UI theme color options, fix break-even trades calculation",
+  "message": "Fix BE trades counter and add right-click context menu",
   "url": "https://github.com/ahmedabdalmageedismailalsayyd/Exaado-Fans-Report/raw/refs/heads/main/captain_report_app.exe"
 }

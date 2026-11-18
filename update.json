@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "button_text": "🚀 تحميل التحديث الجديد",
-  "message": "تم تحسين دقة قراءة اتجاهات الصفقات وإضافة عنوان التجربة!",
+  "message": "Update UI theme color options, fix break-even trades calculation",
   "url": "https://github.com/ahmedabdalmageedismailalsayyd/Exaado-Fans-Report/raw/refs/heads/main/captain_report_app.exe"
 }
